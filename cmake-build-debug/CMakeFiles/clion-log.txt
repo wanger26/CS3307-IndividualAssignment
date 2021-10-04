@@ -1,0 +1,6 @@
+"C:\Program Files\JetBrains\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\jakob\OneDrive - The University of Western Ontario\Year 3\Comp Sci 3307\Assignments\Individual Assignment"
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.14 or higher is required.  You are running version 3.12.3
+
+
+-- Configuring incomplete, errors occurred!
